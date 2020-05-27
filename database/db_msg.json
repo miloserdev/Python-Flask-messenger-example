@@ -1,0 +1,26 @@
+{
+    "_default": {},
+    "messages": {
+        "1": {
+            "from": "alice",
+            "message": "Hello",
+            "read": "0",
+            "time": 1575800959.408054,
+            "to": "bob"
+        },
+        "2": {
+            "from": "bob",
+            "message": "Hello",
+            "read": "0",
+            "time": 1575801057.7067752,
+            "to": "eva"
+        },
+        "3": {
+            "from": "alice",
+            "message": "Hello",
+            "read": "0",
+            "time": 1576069104.39285,
+            "to": "eva"
+        }
+    }
+}

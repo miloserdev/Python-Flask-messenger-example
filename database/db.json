@@ -1,0 +1,46 @@
+{
+    "_default": {},
+    "users": {
+        "1": {
+            "avatar": "",
+            "domain": "alice",
+            "followers": [],
+            "following": [
+                "asd",
+                "asd1",
+                "asd2",
+                "asd3",
+                "asd4"
+            ],
+            "groups": [
+                "asd"
+            ],
+            "name": "Alice",
+            "password": "701fb90716e10ecc7a43852e0eae27f1",
+            "status": "",
+            "token": "gocrDJHyD0ULTZQTPJ90ltr6wY8ZtZgO"
+        },
+        "2": {
+            "avatar": "",
+            "domain": "bob",
+            "followers": "",
+            "following": "",
+            "groups": "",
+            "name": "Bob",
+            "password": "701fb90716e10ecc7a43852e0eae27f1",
+            "status": "",
+            "token": "m0Kt9jLIBLZslSLaL98ciFwPjRpEbSwN"
+        },
+        "3": {
+            "avatar": "",
+            "domain": "eva",
+            "followers": "",
+            "following": "",
+            "groups": "",
+            "name": "Eva",
+            "password": "701fb90716e10ecc7a43852e0eae27f1",
+            "status": "",
+            "token": "O2l78ZtLwpAKgOsipWn8QxC51FxDBisH"
+        }
+    }
+}
